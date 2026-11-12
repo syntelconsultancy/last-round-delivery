@@ -1,0 +1,14 @@
+﻿{
+  "expo": {
+    "name": "Last Round Driver",
+    "slug": "last-round-driver",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "lastrounddriver",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.lastround.driver",
+      "permissions": ["ACCESS_FINE_LOCATION", "ACCESS_BACKGROUND_LOCATION"]
+    }
+  }
+}

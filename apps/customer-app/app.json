@@ -1,0 +1,17 @@
+﻿{
+  "expo": {
+    "name": "Last Round Delivery",
+    "slug": "last-round-delivery",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "lastround",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.lastround.customer",
+      "permissions": ["ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION"]
+    },
+    "ios": {
+      "bundleIdentifier": "com.lastround.customer"
+    }
+  }
+}
